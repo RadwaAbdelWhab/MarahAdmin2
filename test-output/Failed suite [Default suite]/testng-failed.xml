@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Failed suite [Default suite]]">
+  <test parallel="none" name="Default test(failed)(failed)" preserve-order="true">
+    <classes>
+      <class name="Marah.Admin.Panel.Users">
+        <methods>
+          <include name="delete_event"/>
+          <include name="webDriver"/>
+          <include name="webDriver1"/>
+          <include name="login_with_valid_credentials"/>
+        </methods>
+      </class> <!-- Marah.Admin.Panel.Users -->
+    </classes>
+  </test> <!-- Default test(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Default suite]] -->

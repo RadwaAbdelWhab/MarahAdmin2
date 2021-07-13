@@ -1,0 +1,7 @@
+application:
+  name: Admin.Panel
+  package: Marah.Admin.Panel
+spring:
+  application:
+    name: ${application.name}
+
